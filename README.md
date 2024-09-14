@@ -1,4 +1,4 @@
-### Hi there 👋
+# Welcome to my personal profile on GitHub!
 
 <!--
 **rafaeltuelho/rafaeltuelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="67bb6b1d-7300-4f1f-abf3-e4ebbc06695f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+- 🔭 I’m currently working for Red Hat as a Specialist Solution Architect focusing on DevSecOps and Platform Engineering using Red Hat Openshift Application Platform.
+- Here is [my current one-page **resume** in PDF](https://docs.google.com/document/d/1Rl7kk_32FBianFJ1Wd4g2f4nTOqhHj9gPuipT8ZkATg/export?format=pdf)
+- Here is [**my profile at Credly**](https://www.credly.com/users/rafael-soares.019fd6f3) with a list of technical certifications I've acquired as part of my continuous learning in the tech industry.
+- 📫 How to reach me: rafaelcba at gmail dot com
+
+</hr>
+
 <p align="center">
   <a href="https://github.com/riferrei?tab=repositories">
     <img
