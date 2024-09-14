@@ -60,12 +60,12 @@ Addressing the client's technical, development, and strategic IT requirements.
 
 ## INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
 ### Independent IT Consultant
-<sub>March 2009 - July 2010 (1 year 5 months) | Brasília, Distrito Federal, Brazil</sub>
+<sub>March 2009 - July 2010 (1 year five months) | Brasília, Distrito Federal, Brazil</sub>
 
-> Application Server Administrator Specialist for the JavaEE Platform.
+> Worked as a Application Server Administrator Specialist for the JavaEE Platform.
 Responsible for maintaining the infrastructure of JavaEE applications in
-development, test and production environments. Supporting the development
-team with ALM tools and helping integrate the Dev team and the IT
+development, test and production environments. Supported the development
+team with ALM tools and helped integrate the Dev team and the IT
 operations (infra).
 Studies and proposals for standardization and consolidation of application
 servers' infrastructure that host business systems from INEP:
@@ -78,18 +78,18 @@ for the IT infrastructure of those JavaEE applications.
 ## POLITEC GLOBAL IT SERVICES
 ### System Administrator
 <sub>October 2006 - January 2009 (2 years four months) | Brasília, Distrito Federal, Brazil</sub>
-> Worked for a customer from the Federal Government.
+> I worked for a customer from the federal government.
 Responsible for maintaining the infrastructure of JavaEE applications in
 development, test, and production environments. Supporting the development
-team with ALM tools and helping the integration between the Dev team and the IT
+team with ALM tools and helping integrate the Dev team and the IT
 operations (infra).
 Application Server Admin for JBoss AS, Tomcat Web Server, and Apache
 Httpd Web Server.
 
-## Foton
+## Fóton Informática
 ### Java programmer
 <sub>March 2004 - October 2006 (2 years eight months) | Brasília, Distrito Federal, Brazil</sub>
-> Java programmer for applications and systems developed for the financial industry
+> Worked as a Java programmer for applications and systems developed for the financial industry
 using JavaEE standards following the Rational Unified Process Methodology
 and artifacts specified using the UML.
 In this position, I had contact with many technologies during the project
@@ -110,7 +110,7 @@ platform.
 ## CEPROMAT (Centro de Processamento de Dados de Mato Grosso)
 ## Intern
 November 1999 - December 2001 (2 years two months) | Cuiabá, Mato Grosso, Brazil</sub>
-> Client Desktop Software development using the Borland Delphi platform.
+> Developing Client Desktop applications using the Borland Delphi platform.
 
 # Education
 ## UniCEUB - Centro Universitário de Brasília
