@@ -23,13 +23,7 @@ Here are some ideas to get you started:
 </hr>
 
 <p align="center">
-  <a href="https://github.com/riferrei?tab=repositories">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeltuelho&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/riferrei?tab=repositories">
+  <a href="https://github.com/rafaeltuelho?tab=repositories">
     <img
       align="center"
       height="165"
