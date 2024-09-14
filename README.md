@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working for Red Hat as a Specialist Solution Architect focusing on DevSecOps and Platform Engineering using Red Hat Openshift Application Platform.
+- You can read a little more detailed [summary about me here](./about-me.md).
+- You can see a detailed list of [my professional experience here](./experience.md).
 - Here is [my current one-page **resume** in PDF](https://docs.google.com/document/d/1Rl7kk_32FBianFJ1Wd4g2f4nTOqhHj9gPuipT8ZkATg/export?format=pdf)
 - Here is [**my profile at Credly**](https://www.credly.com/users/rafael-soares.019fd6f3) with a list of technical certifications I've acquired as part of my continuous learning in the tech industry.
 - 📫 How to reach me: rafaelcba at gmail dot com
