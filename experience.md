@@ -62,17 +62,18 @@ Addressing the client's technical, development, and strategic IT requirements.
 ## INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
 ### Independent IT Consultant
 March 2009 - July 2010 (1 year 5 months)
-Application Server Administrator specialist for the JavaEE Platform.
+
+> Application Server Administrator specialist for the JavaEE Platform.
 Responsible for maintain the infrastructure of JavaEE applications in
 development, test and production environments. Supporting the development
 team with ALM tools and helping the integration between Dev team and the IT
 operations (infra).
 Studies and proposals for standardization and consolidation of application
 servers' infrastructure that host business systems from INEP:
- * ENEM (Exame Nacional do Estudante - http://sistemasenem2.inep.gov.br)
- * ENADE (Exame Nacional de Desempenho de Estudantes - http://enadeies.inep.gov.br)
- * ENCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos - http://sistemasencceja2.inep.gov.br)
-The main result of this work was the standardization and the capacity planning
+   * ENEM (Exame Nacional do Estudante - http://sistemasenem2.inep.gov.br)
+   * ENADE (Exame Nacional de Desempenho de Estudantes - http://enadeies.inep.gov.br)
+   * ENCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos - http://sistemasencceja2.inep.gov.br)
+> The main result of this work was the standardization and the capacity planning
 for the IT infrastructure of those JavaEE applications.
 
 ## POLITEC GLOBAL IT SERVICES
