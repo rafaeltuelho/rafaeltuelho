@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working for Red Hat as a Specialist Solution Architect focusing on DevSecOps and Platform Engineering using Red Hat Openshift Application Platform.
+- 🔭 I’m currently working for Red Hat as a Specialist Solution Architect focusing on DevSecOps and Platform Engineering using the Red Hat OpenShift Application Platform.
 - You can read a little more detailed [summary about me here](./about-me.md).
 - You can see a detailed list of [my professional experience here](./experience.md).
 - Here is [my current one-page **resume** in PDF](https://docs.google.com/document/d/1Rl7kk_32FBianFJ1Wd4g2f4nTOqhHj9gPuipT8ZkATg/export?format=pdf)
