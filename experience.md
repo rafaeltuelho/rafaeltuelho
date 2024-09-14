@@ -6,39 +6,38 @@
 
 > Focusing on Cloud Native Development, Development tools, Cloud
 Development Environments (CDEs), Application Runtimes, Internal Developer
-Platforms (IDPs), Backstage, CI/CD related offerings.
+Platforms (IDPs), Backstage, CI&CD related offerings.
 
 ### Senior Solutions Architect
-September 2018 - November 2019 (1 year 3 months) | Salvador, Bahia, Brazil
+<sub>September 2018 - November 2019 (1 year three months) | Salvador, Bahia, Brazil</sub>
 > Focusing on App Modernization using CloudNative Technology,
 Containerization, Red Hat Openshift, Kubernetes, Enterprise Java Middleware,
 and Application Integration.
 
 ### Solutions Architect
-May 2014 - September 2018 (4 years 5 months)
-Salvador, Bahia, Brazil
+May 2014 - September 2018 (4 years five months) Salvador, Bahia, Brazil</sub>
 > Supporting the sales team in business opportunities, positioning the Red Hat
-Enterprise Middleware solutions according to our customer needs.
-GPS - Global Projetos e Sistemas Ltda
+Enterprise Middleware solutions are based on our customers' needs.
+
+## GPS - Global Projetos e Sistemas Ltda
 ### Middleware Consultant
-August 2013 - May 2014 (10 months)
-Brasília Area, Brazil
-> Supporting customers from Public Sector using or prospecting Oracle Fusion
-Middleware Solutions and/or Red Hat JBoss Enterprise products.
+August 2013 - May 2014 (10 months) | Brasília, Distrito Federal, Brazil</sub>
+> Supporting customers from the Public Sector using or prospecting Oracle Fusion
+Middleware Solutions and Red Hat JBoss Enterprise products.
 Prospect customers' middleware needs and present a suitable solution based
 on our partners' solution portfolio.
-Working on pre-sales doing technical presentations and implementing some
+Working on pre-sales, doing technical presentations, and implementing some
 proof of concept (POC).
-Working on post-sales activities supporting projects implementations using
+Working on post-sales activities supporting project implementations using
 Red Hat and Oracle Middleware Solutions for our customers.
 
 ## Ação Informática
 ### Solutions Analyst
-June 2012 - June 2013 (1 year 1 month)
+<sub>June 2012 - June 2013 (1 year one month) | Brasília, Distrito Federal, Brazil</sub>
 > Oracle Weblogic Specialist Consultant (on site) for Bank of Brazil (Banco do
 Brasil SA) - http://www.bb.com.br
 Working with and supporting the IT team responsible for the Internet Banking
-web application (the main front-end webapp used by approximately 35.000
+web application (the main front-end web app used by approximately 35.000
 (mil) bank's customers).
 Planning application deployments, patching process, upgrade process, log
 events analysis, messaging integration with IBM MQ (Mainframe platform)
@@ -48,62 +47,60 @@ Middleware products.
 
 ## Red Hat
 ### JBoss Consultant
-June 2010 - May 2012 (2 years)
+<sub>June 2010 - May 2012 (2 years) | Brasília, Distrito Federal, Brazil</sub>
 > Technical consultant specialist in Red Hat Middleware solutions portfolio.
-Responsible for project management including project status, issues, and time
+Responsible for project management, including project status, issues, and time
 reporting.
 Problem identification, system architecture definition, hardware/software
-specification and/or Design, implementation, testing, client training, and
-deployment of open source solutions.
+specification and Design, implementation, testing, client training, and
+deployment of open-source solutions.
 Working on problems of diverse scope where analysis of data requires
 evaluation of identifiable factors.
 Addressing the client's technical, development, and strategic IT requirements.
 
 ## INEP - Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira
 ### Independent IT Consultant
-March 2009 - July 2010 (1 year 5 months)
+<sub>March 2009 - July 2010 (1 year 5 months) | Brasília, Distrito Federal, Brazil</sub>
 
-> Application Server Administrator specialist for the JavaEE Platform.
-Responsible for maintain the infrastructure of JavaEE applications in
+> Application Server Administrator Specialist for the JavaEE Platform.
+Responsible for maintaining the infrastructure of JavaEE applications in
 development, test and production environments. Supporting the development
-team with ALM tools and helping the integration between Dev team and the IT
+team with ALM tools and helping integrate the Dev team and the IT
 operations (infra).
 Studies and proposals for standardization and consolidation of application
 servers' infrastructure that host business systems from INEP:
-   * ENEM (Exame Nacional do Estudante - http://sistemasenem2.inep.gov.br)
-   * ENADE (Exame Nacional de Desempenho de Estudantes - http://enadeies.inep.gov.br)
-   * ENCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos - http://sistemasencceja2.inep.gov.br)
-> The main result of this work was the standardization and the capacity planning
+   * ENEM (Exame Nacional do Estudante)
+   * ENADE (Exame Nacional de Desempenho de Estudantes)
+   * ENCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos)
+> The main result of this work was the standardization and capacity planning
 for the IT infrastructure of those JavaEE applications.
 
 ## POLITEC GLOBAL IT SERVICES
 ### System Administrator
-October 2006 - January 2009 (2 years 4 months)
-Brasília - DF - Brasil
-> Worked for a customer from Federal Government.
-Responsible for maintain the infrastructure of JavaEE applications in
-development, test and production environments. Supporting the development
-team with ALM tools and helping the integration between Dev team and the IT
+<sub>October 2006 - January 2009 (2 years four months) | Brasília, Distrito Federal, Brazil</sub>
+> Worked for a customer from the Federal Government.
+Responsible for maintaining the infrastructure of JavaEE applications in
+development, test, and production environments. Supporting the development
+team with ALM tools and helping the integration between the Dev team and the IT
 operations (infra).
-Application Server Admin for JBoss AS, Tomcat Web Server and Apache
+Application Server Admin for JBoss AS, Tomcat Web Server, and Apache
 Httpd Web Server.
 
 ## Foton
 ### Java programmer
-March 2004 - October 2006 (2 years 8 months)
-
-> Java programmer for applications and systems developed for financial industry
+<sub>March 2004 - October 2006 (2 years eight months) | Brasília, Distrito Federal, Brazil</sub>
+> Java programmer for applications and systems developed for the financial industry
 using JavaEE standards following the Rational Unified Process Methodology
 and artifacts specified using the UML.
-In this position I had contact with many technologies during the project
-development like: JMS, EJB, JDBC, Oracle Database, Unix Operating System,
+In this position, I had contact with many technologies during the project
+development like JMS, EJB, JDBC, Oracle Database, Unix Operating System,
 JNI (used to call some C libraries), Web Services developed in .NET C#,
 Apache ANT (build and packaging).
 
 ## Ábaco Tecnologia de Informação
 ## Junior Programmer
-October 2001 - February 2004 (2 years 5 months)
-> Worked in a project for a big customer from Mato Grosso's State Government.
+<sub>October 2001 - February 2004 (2 years five months) | Cuiabá, Mato Grosso, Brazil</sub>
+> Worked on a project for a big customer from Mato Grosso's State Government.
 Java programmer for applications and systems developed using JavaEE
 standards following the Rational Unified Process Methodology and artifacts
 specified using the UML.
@@ -112,9 +109,9 @@ platform.
 
 ## CEPROMAT (Centro de Processamento de Dados de Mato Grosso)
 ## Intern
-November 1999 - December 2001 (2 years 2 months)
-> Client Desktop Software development using Borland Delphi platform.
+November 1999 - December 2001 (2 years two months) | Cuiabá, Mato Grosso, Brazil</sub>
+> Client Desktop Software development using the Borland Delphi platform.
 
-## Education
-### UniCEUB - Centro Universitário de Brasília
+# Education
+## UniCEUB - Centro Universitário de Brasília
  * Bachelor's degree, Computer Science · (2003 - 2007)
