@@ -2,7 +2,7 @@
 
 ## Red Hat
 ### Associate Principal Specialist Solution Architect
-<sub>November 2019 - Present (4 years three months) | Frisco, Texas, United States</sub>
+<sub>November 2019 - Present | Frisco, Texas, United States</sub>
 
 > Part of the North America Tech Sales HQ  focusing on DevSecOps, Developer Tooling/Portals, Developer Experience, Trusted Software Supply Chain, Kubernetes, and OpenShift Application Services initiatives. I'm helping customers improve their developer experience and improving their platform using the Red Hat Portfolio.
 
