@@ -4,9 +4,7 @@
 ### Senior Specialist Solution Architect
 <sub>November 2019 - Present (4 years three months) | Frisco, Texas, United States</sub>
 
-> Focusing on Cloud Native Development, Development tools, Cloud
-Development Environments (CDEs), Application Runtimes, Internal Developer
-Platforms (IDPs), Backstage, CI&CD related offerings.
+> Part of the North America Tech Sales HQ  focusing on DevSecOps, Developer Tooling/Portals, Developer Experience, Trusted Software Supply Chain, Kubernetes, and OpenShift Application Services initiatives. I'm helping customers improve their developer experience and improving their platform using the Red Hat Portfolio.
 
 ### Senior Solutions Architect
 <sub>September 2018 - November 2019 (1 year three months) | Salvador, Bahia, Brazil</sub>
