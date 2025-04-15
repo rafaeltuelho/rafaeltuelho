@@ -13,13 +13,13 @@ Containerization, Red Hat Openshift, Kubernetes, Enterprise Java Middleware,
 and Application Integration.
 
 ### Solutions Architect
-May 2014 - September 2018 (4 years five months) Salvador, Bahia, Brazil</sub>
+<sub>May 2014 - September 2018 (4 years five months) Salvador, Bahia, Brazil</sub>
 > Supporting the sales team in business opportunities, positioning the Red Hat
 Enterprise Middleware solutions are based on our customers' needs.
 
 ## GPS - Global Projetos e Sistemas Ltda
 ### Middleware Consultant
-August 2013 - May 2014 (10 months) | Brasília, Distrito Federal, Brazil</sub>
+<sub>August 2013 - May 2014 (10 months) | Brasília, Distrito Federal, Brazil</sub>
 > Supporting customers from the Public Sector using or prospecting Oracle Fusion
 Middleware Solutions and Red Hat JBoss Enterprise products.
 Prospect customers' middleware needs and present a suitable solution based
